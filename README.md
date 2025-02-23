@@ -1,8 +1,8 @@
 # Desafio LEDS Academy
 
-Desafio proposto pelo LEDS Academy para desenvolver um programa que permita realizer as buscas listadas abaixo:
+Desafio proposto pelo LEDS para desenvolver um programa que permita realizer as buscas listadas abaixo:
 
-1. Listar os órgãos, códigos e editais dos concursos públicos que se encaixam no perfil do candidato, tomando como base o seu CPF;
-2. Listar o nome, data de nascimento e o CPF dos candidatos que se encaixam no perfil do concurso tomando com base o Código do Concurso do concurso público;
+1. Listar os Ã³rgÃ£os, cÃ³digos e editais dos concursos pÃºblicos que se encaixam no perfil do candidato, tomando como base o seu CPF;
+2. Listar o nome, data de nascimento e o CPF dos candidatos que se encaixam no perfil do concurso tomando com base o CÃ³digo do Concurso do concurso pÃºblico;
 
-Para maiores detalhes vá para o [link](https://github.com/leds-org/venhaparaoleds-backend).
+Para maiores detalhes vÃ¡ para o [link](https://github.com/leds-org/venhaparaoleds-backend).
