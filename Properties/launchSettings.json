@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CandidatoxConcurso": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
